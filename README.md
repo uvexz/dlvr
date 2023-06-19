@@ -1,4 +1,4 @@
-# DeLiVeR
+# DLVR
 
 ## 📖 Documentation
 
