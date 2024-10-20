@@ -17,6 +17,7 @@
 	"license": "MIT",
 	"scripts": {
 		"build": "nitropack build",
+		"start": "node .output/server/index.mjs",
 		"dev": "nitropack dev",
 		"postinstall": "nr prepare && nr sync-deps",
 		"lint": "eslint . && prettier . --check",
